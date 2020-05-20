@@ -30,7 +30,7 @@ header {
 }
 
 .logo span {
-      color: darkgrey;
+      color: white;
       display: inline-block;
       animation-duration: 20s;
       animation-iteration-count: infinite;

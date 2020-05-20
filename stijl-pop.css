@@ -55,7 +55,6 @@ header {
       }
 }
 
-
 .header-logo {
   z-index: 102;
   display: none;
@@ -285,12 +284,12 @@ header .socials {
         }
         57%, 91% {
               width: 8rem;
-              color:#E49E2B;
+              color:white;
         }
   }
 
 	.logo span{
-		color:#E49E2B;
+		color:grey;
 	}
 
   nav{

@@ -30,7 +30,7 @@ header {
 }
 
 .logo span {
-      color: white;
+      color: darkgrey;
       display: inline-block;
       animation-duration: 20s;
       animation-iteration-count: infinite;
@@ -54,6 +54,7 @@ header {
             color: white;
       }
 }
+
 
 .header-logo {
   z-index: 102;
@@ -284,13 +285,10 @@ header .socials {
         }
         57%, 91% {
               width: 8rem;
-              color:white;
+              color: #E49E2B;
         }
   }
 
-	.logo span{
-		color:grey;
-	}
 
   nav{
     position: absolute;
@@ -475,6 +473,7 @@ main h3 span{
   display: block;
   margin-top: -0.8rem;
   margin-left: 2rem;
+  mix-blend-mode: difference;
 }
 
 main h4{

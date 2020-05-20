@@ -289,6 +289,9 @@ header .socials {
         }
   }
 
+	.logo span{
+		color:#E49E2B;
+	}
 
   nav{
     position: absolute;
